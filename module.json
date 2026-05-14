@@ -6,8 +6,8 @@
   ],
   "description": "Модуль української локалізації для системи FateX - Fate Extended",
   "version": "1.0.0",
-  "manifest": "https://github.com/Burzhuys-dice/soulbound-ua/releases/download/1.0.0/module.json",
-  "download": "https://github.com/Burzhuys-dice/soulbound-ua/releases/download/1.0.0/soulbound-ua.zip",
+  "manifest": "https://github.com/Burzhuys-dice/FateX-UA/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Burzhuys-dice/FateX-UA/releases/download/1.0.0/FateX-UA.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
