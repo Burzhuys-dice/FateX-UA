@@ -1,0 +1,139 @@
+{
+    "name": "Accelerated",
+    "identifier": "accelerated",
+    "types": {
+        "Aspects": [
+            {
+                "label": "Основні",
+                "entries": [
+                    {
+                        "name": "Головна концепція",
+                        "type": "aspect",
+                        "data": {
+                            "label": "Головна концепція"
+                        }
+                    },
+                    {
+                        "name": "Проблема",
+                        "type": "aspect",
+                        "data": {
+                            "label": "Проблема"
+                        }
+                    },
+                    {
+                        "name": "Інший аспект",
+                        "type": "aspect",
+                        "data": {
+                            "label": "Інше"
+                        }
+                    },
+                    {
+                        "name": "Інший аспект",
+                        "type": "aspect",
+                        "data": {
+                            "label": "Інше"
+                        }
+                    },
+                    {
+                        "name": "Інший аспект",
+                        "type": "aspect",
+                        "data": {
+                            "label": "Інше"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "Додаткове",
+                "entries": [
+                    {
+                        "name": "Відносини",
+                        "type": "aspect",
+                        "data": {
+                            "label": "Відносини"
+                        }
+                    },
+                    {
+                        "name": "Порожній аспект",
+                        "type": "aspect"
+                    }
+                ]
+            }
+        ],
+        "Consequences": [
+            {
+                "entries": [
+                    {
+                        "name": "Легкий наслідок",
+                        "type": "consequence",
+                        "data": {
+                            "label": "Mild",
+                            "icon": "2"
+                        }
+                    },
+                    {
+                        "name": "Середній наслідок",
+                        "type": "consequence",
+                        "data": {
+                            "label": "Moderate",
+                            "icon": "4"
+                        }
+                    },
+                    {
+                        "name": "Серйозний наслідок",
+                        "type": "consequence",
+                        "data": {
+                            "label": "Severe",
+                            "icon": "6"
+                        }
+                    }
+                ]
+            }
+        ],
+        "Skills": [
+            {
+                "columns": true,
+                "entries": [
+                    {
+                        "name": "Обережно",
+                        "type": "skill"
+                    },
+                    {
+                        "name": "Розумно",
+                        "type": "skill"
+                    },
+                    {
+                        "name": "Кричуще",
+                        "type": "skill"
+                    },
+                    {
+                        "name": "Брутально",
+                        "type": "skill"
+                    },
+                    {
+                        "name": "Швидко",
+                        "type": "skill"
+                    },
+                    {
+                        "name": "Скритно",
+                        "type": "skill"
+                    }
+                ]
+            }
+        ],
+        "Stress": [
+            {
+                "entries": [
+                    {
+                        "name": "Стрес",
+                        "type": "stress",
+                        "data": {
+                            "size": 3,
+                            "labelType": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
